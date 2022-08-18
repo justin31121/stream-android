@@ -1,0 +1,11 @@
+<FrameLayout android:id="@+id/secondMedia"
+    android:layout_width="match_parent"
+    android:layout_height="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.example.myapplication.FullScreenVideoView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fullScreenVideoView"/>
+
+</FrameLayout>
